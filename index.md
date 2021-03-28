@@ -7,7 +7,7 @@ page_sections:
   block: header-2
   logo: "/uploads/2021/03/28/server-logo-black.png"
   navigation:
-  - link: "/projects/suisei-mic.md"
+  - link: "/projects/suisei-mic"
     link_text: Suisei's Mic
   cta:
     url: https://github.com/HoloRes
