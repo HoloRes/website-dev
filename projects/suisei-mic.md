@@ -9,6 +9,8 @@ page_sections:
   cta:
     url: https://github.com/HoloRes
     button_text: GitHub
-  navigation: []
+  navigation:
+  - link: "/projects/suisei-mic"
+    link_text: Suisei's Mic
 
 ---
