@@ -16,8 +16,7 @@ page_sections:
   block: hero-2
   slug: features
   headline: "<strong>Hololive Resort<br></strong>Development Team"
-  content: The tool that allows you to build beautiful sites<br>all inside Forestry's
-    content manager.
+  content: 'A team that builds open source tools and services for the VTuber community. '
   cta:
     enabled: true
     url: https://github.com/HoloRes
