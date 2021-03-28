@@ -4,7 +4,7 @@ author: Hololive Resort
 email: hololiveresistance@yahoo.com
 description: Hololive Resort's Development Team homepage and project overview.
 baseurl: "/"
-url: ''
+url: https://dev.hlresort.community
 defaults:
 - scope:
     path: ''
