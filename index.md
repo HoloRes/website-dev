@@ -7,7 +7,7 @@ page_sections:
   block: header-2
   logo: "/uploads/2021/03/28/server-logo-black.png"
   navigation:
-  - link: "/projects/suisei-mic"
+  - link: "/projects/suisei-mic.md"
     link_text: Suisei's Mic
   cta:
     url: https://github.com/HoloRes
@@ -15,12 +15,12 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: uBuild <br><strong>design blocks</strong>
+  headline: "<strong>Hololive Resort<br></strong>Development Team"
   content: The tool that allows you to build beautiful sites<br>all inside Forestry's
     content manager.
   cta:
     enabled: true
-    url: https://github.com/forestryio/ubuild-jekyll
+    url: https://github.com/HoloRes
     button_text: 'See on GitHub '
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"
