@@ -12,5 +12,14 @@ page_sections:
   navigation:
   - link: "/projects/suisei-mic"
     link_text: Suisei's Mic
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: YouTube notifications
+  slug: ''
+  content: ''
+  media:
+    image: ''
+    alt_text: ''
 
 ---
