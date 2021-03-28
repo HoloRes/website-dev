@@ -12,6 +12,18 @@ page_sections:
   navigation:
   - link: "/projects/suisei-mic"
     link_text: Suisei's Mic
+- template: hero-banner-w-image
+  block: hero-2
+  background_image: "/uploads/2018/06/21/hero-2-bg.png"
+  headline: "<strong>Suisei's Mic</strong>"
+  content: A Discord bot specifically made for VTuber communities
+  cta:
+    enabled: true
+    button_text: GitHub repository
+    url: https://github.com/HoloRes/suisei-mic
+  image:
+    image: ''
+    alt_text: ''
 - template: content-feature
   block: feature-1
   media_alignment: Right
