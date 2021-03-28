@@ -7,16 +7,8 @@ page_sections:
   block: header-2
   logo: "/uploads/2021/03/28/server-logo-black.png"
   navigation:
-  - link: "/"
-    link_text: Ubuild
-  - link: "#swap"
-    link_text: Swap
-  - link: "#customize"
-    link_text: Customize
-  - link: "#responsive"
-    link_text: Responsive
-  - link: "#blocks"
-    link_text: Blocks
+  - link: "/projects/suisei-mic.html"
+    link_text: Suisei's Mic
   cta:
     url: https://github.com/HoloRes
     button_text: GitHub
