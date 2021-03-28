@@ -49,7 +49,8 @@ page_sections:
     alt_text: Customize Blocks
 - template: simple-footer
   block: footer-1
-  content: Made with ❤︎ in Canada
+  content: Made with ❤︎ by <a href="https://discord.gg/HoloRes" title="">Hololive
+    Resort</a>
 menu:
   main:
     identifier: home
