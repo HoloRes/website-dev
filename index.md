@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: Homepage
+title: Home
 date: 
 page_sections:
 - template: navigation-header-w-button
@@ -55,6 +55,5 @@ menu:
   main:
     identifier: home
     weight: 1
-    title: Home
 
 ---
