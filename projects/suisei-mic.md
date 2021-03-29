@@ -42,5 +42,38 @@ page_sections:
     alt_text: Preview
   content: A live Twitter feed in Discord!
   slug: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: Moderation
+  media:
+    image: "/uploads/2021/03/29/moderation-standard.png"
+    alt_text: Preview
+  content: Easy moderation, with logging and a webpanel!
+  slug: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  headline: Web panel
+  media:
+    image: "/uploads/2021/03/29/strike-list.png"
+    alt_text: Preview
+  content: A web panel to keep track of everything that happened!
+  slug: ''
+- template: 2-column-text
+  block: two-column-1
+  col_1:
+    headline: 'Planned: Hosted version'
+    content: We are currently looking into having a hosted version, free to use!
+    slug: ''
+  col_2:
+    headline: 'Or: Host it yourself'
+    content: You can easily host the bot yourself by going to our GitHub and downloading
+      the source code <a href="https://github.com/HoloRes/suisei-mic" title="">here</a>!
+    slug: ''
+- template: simple-footer
+  block: footer-1
+  content: Made with ❤︎ by <a href="https://discord.gg/HoloRes" title="">Hololive
+    Resort</a>
 
 ---
