@@ -29,9 +29,18 @@ page_sections:
   media_alignment: Right
   headline: YouTube notifications
   slug: ''
-  content: ''
+  content: Automatic stream notifications of your favorite VTuber, right in Discord!
   media:
-    image: ''
-    alt_text: ''
+    image: "/uploads/2021/03/29/3d.png"
+    alt_text: Example
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  headline: Twitter feed
+  media:
+    image: "/uploads/2021/03/29/discord_dnxyd0fqwm.png"
+    alt_text: Preview
+  content: A live Twitter feed in Discord!
+  slug: ''
 
 ---
