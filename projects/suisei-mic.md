@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: suisei-mic
+title: Suisei's Mic
 date: 
 page_sections:
 - template: navigation-header-w-button
