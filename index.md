@@ -25,28 +25,33 @@ page_sections:
     image: "/uploads/2021/03/28/resistance_logo.png"
     alt_text: Logo
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
+- template: 1-column-text
+  block: one-column-1
+  headline: We ❤︎ open source
+  content: As we use many open source projects, everything that we create is open
+    source as well!
+  slug: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  slug: swap
-  headline: <strong>Swap &amp; Switch<span class="light">&nbsp;</span></strong><span
-    class="light">the Blocks to create sites quickly</span>
-  content: Quickly assemble and create custom sites with 16 design blocks for seven
-    different sections.
+  slug: ''
+  headline: "<strong>Suisei's Mic</strong>"
+  content: Suisei's Mic is an advanced Discord bot, specifically made for VTuber servers
+    with features like YouTube notifications, Twitter feeds and more!<br><a href="/projects/suisei-mic"
+    title="">Learn more</a>
   media:
-    image: "/uploads/2018/06/21/blocks-split.png"
-    alt_text: uBuild Blocks Mock-Up
+    image: "/uploads/2021/03/29/3d.png"
+    alt_text: ''
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  slug: customize
-  headline: <strong>Customize Blocks</strong><span class="light">&nbsp;to make quick
-    edits throughout your new site</span>
-  content: Each block comes with custom Front Matter that can be edited in Forestry
-    CMS.
+  headline: "<strong>Ikari</strong>"
+  content: A Discord bot to manage projects for our translation team!<br><a href="/projects/ikari"
+    title="">Learn more</a>
+  slug: ''
   media:
-    image: "/uploads/2018/06/21/edit.gif"
-    alt_text: Customize Blocks
+    image: ''
+    alt_text: ''
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ by <a href="https://discord.gg/HoloRes" title="">Hololive
