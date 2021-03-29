@@ -46,12 +46,23 @@ page_sections:
   block: feature-1
   media_alignment: Right
   headline: "<strong>Ikari</strong>"
-  content: A Discord bot to manage projects for our translation team!<br><a href="/projects/ikari"
+  content: A Discord bot to manage projects for our translation team!<br><a href="https://github.com/HoloRes/Ikari"
     title="">Learn more</a>
   slug: ''
   media:
-    image: ''
-    alt_text: ''
+    image: "/uploads/2021/03/29/discord_ubgm88kgzh.png"
+    alt_text: Preview
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  headline: "<strong>HoloAPI wrapper</strong>"
+  content: A TypeScript/JavaScript wrapper for Holofans' <a href="https://github.com/holofans/holoapi"
+    title="">HoloAPI</a>.<br><a href="https://www.npmjs.com/package/@holores/holoapi"
+    title="">Learn More</a>
+  media:
+    image: "/uploads/2021/03/29/holoapi-wrapper.png"
+    alt_text: Code preview
+  slug: ''
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ by <a href="https://discord.gg/HoloRes" title="">Hololive
